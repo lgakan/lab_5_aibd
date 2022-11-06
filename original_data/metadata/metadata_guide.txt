@@ -1,0 +1,5 @@
+Dane pobrane z uczelnianego repozytorium: https://github.com/KAIR-ISZ/public_lectures/tree/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202
+
+Orginalne dane zawarte w pliku "weather.txt" zawieraja dane pogodowe z Global Historical Climatology Network dla jednej stacji pogodowej (MX17004) w Meksyku w latach 1995-2011.
+Pierwsza kolumna zawiera dane (id, rok, miesiac, nazwa zmiennych), w pozostalych kolumnach sa wartosci zmiennych na dany dzien miesiaca (dzien, d1-d31). 
+Miesiace z mniej niz 31 dni maja strukturalne brakujace wartosci dla ostatniego dnia (dni) miesiace (-9999)
